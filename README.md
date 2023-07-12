@@ -1,1 +1,1 @@
-# vwo-event-streamer-gtm-template
+# VWO Event Streamer GTM Template
