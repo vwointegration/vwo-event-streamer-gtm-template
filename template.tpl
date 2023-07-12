@@ -42,7 +42,7 @@ ___TEMPLATE_PARAMETERS___
         "type": "TEXT"
       }
     ],
-    "newRowButtonText": "+ Add another Event",
+    "newRowButtonText": "+ Add another event",
     "help": "Events you add here will not be sent to VWO while streaming events."
   },
   {
