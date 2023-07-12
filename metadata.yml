@@ -1,5 +1,5 @@
 homepage: "https://vwo.com"
 documentation: "https://help.vwo.com/hc/en-us/articles/15595250852761-Integrating-VWO-with-Google-Tag-Manager-GTM-"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 49ff6eabb63fc6cf08425e77ed09312373dc244b
     changeNotes: Initial release.
